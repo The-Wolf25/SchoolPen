@@ -1,5 +1,10 @@
 # SchoolPen
 Learn Everything with AI
+A Modren UI for the Modren Students
+
+
+
+
 ![Screenshot_2023-09-07-18-48-56-360_com example learn](https://github.com/The-Wolf25/SchoolPen/assets/134403686/0f8859e6-f9cf-42fd-8ff7-f92a35c533ea)
 ![Screenshot_2023-09-07-18-49-03-028_com example learn](https://github.com/The-Wolf25/SchoolPen/assets/134403686/c71d9277-de73-4792-8f94-d4c3a9b1bd4d)
 ![Screenshot_2023-09-07-18-49-31-229_com example learn](https://github.com/The-Wolf25/SchoolPen/assets/134403686/8b48cf13-362f-4c36-935a-93c790e34720)
